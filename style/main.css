@@ -1,0 +1,166 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  left: 0;
+  top: 0;
+}
+
+
+html, body
+{
+  height: auto;
+  background-color: #aaa;
+  width: 99vw;
+  scroll-behavior: smooth;
+  text-align:center;
+}
+
+
+section
+{
+  height: 100vh;
+  width: 100%;
+}
+
+
+.HeaderList
+{
+  list-style-type: none;
+}
+
+a
+{
+  text-decoration: none;
+}
+
+
+.MainHeader
+{
+  height: 6vh;
+  position: fixed;
+  background-color: #444;
+  z-index: 100;
+  width: 100%;
+
+}
+
+.HeaderList li
+{
+  float: right;
+  padding-right: 2vw;
+  font-size: 3vh;
+  margin-top: 1vh;
+
+}
+
+.HeaderList li a
+{
+    color: #dedede;
+}
+
+
+.HeaderList li :hover
+{
+    text-decoration: underline;
+}
+
+
+
+#SectionStart
+{
+  background-image: url("https://www.swr.de/swr2/wird-referenziert/migration/bilder/1562942755679,image-swr-125626~_v-16x9@2dM_-ad6791ade5eb8b5c935dd377130b903c4b5781d8.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+.MainHeadline
+{
+  color: #fff;
+  margin-top: 25vh;
+  font-size: 15vh;
+  text-shadow: 0 0 5px #444;
+}
+
+.SecondHead
+{
+  color: #eee;
+  font-size: 5vh;
+  text-shadow: 0 0 3px #444;
+}
+
+.NormalSection
+{
+  background-color: white;
+  min-height: 100vh;
+  display: table;
+}
+
+
+h1
+{
+  padding-top: 12vh;
+  font-size: 7vh;
+  color: #888;
+}
+
+h2
+{
+  padding-top: -1vh;
+  font-size: 3vh;
+  color: #666;
+  padding-bottom: 6vh;
+}
+
+ul
+{
+  padding-left: 2vw;
+  font-size: 2.4vh;
+}
+
+
+
+
+.InhaltDiv
+{
+  width: auto;
+  height: auto;
+  text-align: left;
+  display: inline-block;
+}
+
+
+
+
+
+
+
+h3
+{
+  font-size: 200%;
+  text-align: center;
+}
+
+
+
+
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+{
+  img
+  {
+    width: 80%;
+    margin-top: 5vh; margin-bottom: 5vh;
+  }
+  .InhaltDiv
+  {
+    width: auto;
+    height: auto;
+    text-align: left;
+    display: inline-block;
+    margin: auto;
+  }
+}
