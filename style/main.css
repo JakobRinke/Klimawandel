@@ -150,11 +150,6 @@ h3
 and (min-device-width : 768px)
 and (max-device-width : 1024px)
 {
-  img
-  {
-    width: 80%;
-    margin-top: 5vh; margin-bottom: 5vh;
-  }
   .InhaltDiv
   {
     width: auto;
