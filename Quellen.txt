@@ -2,3 +2,4 @@ https://www.swr.de/swr2/wird-referenziert/migration/bilder/1562942755679,image-s
 https://cs3.wettercomassets.com/thumbnails/variants/5c1b87bca5b4b96178647572/700_394.jpg?_=1545309730
 Weltklimarat der Vereinten Nationen (IPCC),2007
 https://www.sueddeutsche.de/image/sz.1.1741905/640x360?v=1521942934
+https://s3-eu-central-1.amazonaws.com/eigensonne-wp-dev/wp-content/uploads/2019/07/16173920/solarpanel.jpg-1024x768.jpg
