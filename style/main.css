@@ -96,6 +96,7 @@ a
   background-color: white;
   min-height: 100vh;
   display: table;
+  padding: auto
 }
 
 
@@ -103,7 +104,7 @@ h1
 {
   padding-top: 12vh;
   font-size: 7vh;
-  color: #888;
+  color: hsl(201, 60%, 60%)
 }
 
 h2
